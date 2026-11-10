@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bayonnehvacco.com/sitemap.xml
